@@ -1,0 +1,19 @@
+
+body {
+  padding: 0;
+}
+
+.media-object {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.figure {
+  flex: 1 1 20%;
+  align-self: flex-start;
+  order: 0;
+}
+
+.media-body {
+  flex: 1 1 60%;
+}
