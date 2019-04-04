@@ -1,4 +1,8 @@
 # flexbox-playground
+this is a flexbox cheatsheet with visuals
+
+## Demo 
+https://flexbox-visual.netlify.com/showcase.html
 
 ## How To Install
 ```
