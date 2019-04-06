@@ -18,6 +18,4 @@ May be useful
 Contact Me :
 - Email : modulloe@gmail.com
 
-## License
-[MIT](http://opensource.org/licenses/MIT)
-Copyright (c) 2018 - Randy Vianda Putra
+Copyright (c) 2018 - Randy Vianda Putra & Thanks to Charlesjsharp for inspiration
