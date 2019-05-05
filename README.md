@@ -1,5 +1,5 @@
 # flexbox-playground
-this is flexbox sheet cheat with visual display
+this is flexbox cheatsheet with visual display
 
 ## Demo 
 https://flexbox-visual.netlify.com/showcase.html
