@@ -2,7 +2,7 @@
 this is flexbox cheatsheet with visual display
 
 ## Demo 
-https://flexbox-visual.netlify.com/showcase.html
+https://www.flexbox.aweutist.dev/showcase.html
 
 ## How To Install
 ```
