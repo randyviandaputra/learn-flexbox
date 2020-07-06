@@ -2,9 +2,8 @@
 
 this is flexbox cheatsheet with visual display
 
-## Demo
-
-https://flexbox-visual.netlify.com/showcase.html
+## Demo 
+https://www.flexbox.aweutist.dev/showcase.html
 
 ## How To Install
 
